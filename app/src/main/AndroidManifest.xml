@@ -8,6 +8,7 @@
             <category android:name="android.intent.category.BROWSABLE" />
             <data android:scheme="https" />
         </intent>
+        <package android:name="com.google.android.apps.maps" />
     </queries>
 
     <application
