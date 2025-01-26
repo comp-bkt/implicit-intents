@@ -1,3 +1,6 @@
 # implicit intents
 ### main branch
-* kotlin - Android 14, examples of implicit intents
+
+kotlin - Android 15, examples of implicit intents\
+XML based layout with EdgeToEdge switched off
+
